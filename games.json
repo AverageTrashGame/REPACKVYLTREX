@@ -82,5 +82,19 @@
     "exe": "Terraria.exe",
     "sha256": "d5cc511fa28c0b55e4c891da5bffd94916a2f82a21854bc4243002c240a82083",
     "description": "Installs into AppData. Download + extract progress shown inside the app."
+  },
+  {
+    "id": "cardealershipsim2",
+    "name": "Car Dealership Simulator 2",
+    "category": "3D Simulator Games",
+    "tags": [
+      "Car",
+      "Simulator",
+      "3D"
+    ],
+    "download": "https://pixeldrain.com/api/file/KuHZBN9r?download",
+    "exe": "Car Dealership Simulator 2.exe",
+    "sha256": "835ab15d7b1216f8f01956994a39c3fa6b90c84f4f7e7d73052f6198d6209ae6",
+    "description": "Installs into AppData. Download + extract progress shown inside the app."
   }
 ]
